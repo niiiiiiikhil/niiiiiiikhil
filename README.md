@@ -7,7 +7,7 @@
 🎓 **MS in Computer Science** @ **Florida Atlantic University**  
 💡 Passionate about **Web Development, Data Science, and AI**  
 🌎 Based in **Boca Raton, Florida**  
-🔍 Currently **seeking full-time opportunities** in **Data Analysis, IT Support, or Business Analysis**  
+🔍 Currently **seeking Internships, full-time opportunities** in **Computer Science, Data Analysis, Web Developement**  
 
 ## 🛠️ Skills & Tech Stack
 
