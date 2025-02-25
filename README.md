@@ -1,48 +1,50 @@
+# Hi there, I'm Sai Nikhil Chanumolu! 👋
+
+![GitHub Profile Banner](https://user-images.githubusercontent.com/your-image-url/banner.png)
+
+## 🚀 About Me
+
+🎓 **MS in Computer Science** @ **Florida Atlantic University**  
+💡 Passionate about **Web Development, Data Science, and AI**  
+🌎 Based in **Boca Raton, Florida**  
+🔍 Currently **seeking full-time opportunities** in **Data Analysis, IT Support, or Business Analysis**  
+
+## 🛠️ Skills & Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Weka](https://img.shields.io/badge/-Weka-9C27B0?style=flat&logo=weka&logoColor=white)
+
+## 📂 Projects
+
+🔹 **[Portfolio Website](https://niiiiiiikhil.github.io/portfolio/)** - My professional portfolio showcasing my work.  
+🔹 **Students Live Behavior Monitoring** - Used **YOLOv3** & **OpenCV** to track students' engagement in online classes.  
+🔹 **Handwritten Digit Recognition** - Implemented **Neural Networks** & **Logistic Regression** for handwritten digit classification.  
+🔹 **Inventory Management System** - (In Progress) A web app for university store inventory tracking.  
+🔹 **Blackjack Strategy Trainer** - (Upcoming) A web-based **Blackjack strategy training** tool using Flask & React.  
+
+## 📊 GitHub Stats
+
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=niiiiiiikhil&style=plastic&color=blueviolet" alt="Profile Views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=niiiiiiikhil&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niiiiiiikhil&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niiiiiiikhil&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
-<div align="center">
+## 📫 Connect with Me
 
-![Pokeball Top](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+📧 Email: [chanumolunikhil@gmail.com](mailto:chanumolunikhil@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/niiiiiiikhil](https://www.linkedin.com/in/niiiiiiikhil/)  
+🐦 Twitter: [@niiiiiiikhil](https://twitter.com/niiiiiiikhil)  
+📸 Instagram: [@niiiiiiikhil](https://instagram.com/niiiiiiikhil)  
 
-<details>
-<summary>✨ Open Profile</summary>
-
-<br>
-<div>
-  <div align=center>
-      <img height="200" alt="Nikhil's Avatar" src="https://github.com/niiiiiiikhil.png" alt="Avatar photo of Sai Nikhil">
-  </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Nikhil!;Welcome+to+My+GitHub+Profile;Aspiring+Data+Analyst+&+Tech+Enthusiast;Web+Developer+|+Python+|+SQL;Avid+Problem+Solver;Traveler+%26+Foodie;Guitarist+%26+Beatboxer" alt="Typing SVG" /></a>
-  </div>
-</div>
-
-</details>
-
----
-
-<details>
-<summary>📌 About Me</summary>
-
-```js
-/**
- * Represents Sai Nikhil Chanumolu.
- *
- * @constructor
- * @param {string} location - Boca Raton, Florida, USA.
- * @param {string} languages - English, Telugu, Hindi.
- * @param {string} education - MS in CS, Florida Atlantic University.
- * @param {string} interests - Data Science, Web Development, AI, and Cybersecurity.
- * @param {string} hobbies - Meditation, Traveling, Photography, Beatboxing, Guitar.
- * @param {string} seeking - Looking for IT Support, Data Analyst, Business Analyst roles.
- *
- * @throws {Debugging} Bugs in my code.
- *
- * @returns {Object} Sai Nikhil.
- */
+⚡ **Fun Fact**: I love **meditation, beatboxing, and photography** 📷🎤
