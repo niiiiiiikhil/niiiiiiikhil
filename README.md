@@ -1,50 +1,61 @@
-# Hi there, I'm Sai Nikhil Chanumolu! 👋
+# **Sai Nikhil Chanumolu** 👨‍💻  
 
-![GitHub Profile Banner](https://user-images.githubusercontent.com/your-image-url/banner.png)
+## **🚀 About Me**  
 
-## 🚀 About Me
+🎓 **Master’s in Computer Science** | **Florida Atlantic University**  
+📍 **Boca Raton, Florida**  
+🔍 **Actively seeking full-time opportunities** in **Software Development, Data Analytics, and AI**  
 
-🎓 **MS in Computer Science** @ **Florida Atlantic University**  
-💡 Passionate about **Web Development, Data Science, and AI**  
-🌎 Based in **Boca Raton, Florida**  
-🔍 Currently **seeking Internships, full-time opportunities** in **Computer Science, Data Analysis, Web Developement**  
+I am a highly motivated **Computer Science graduate student** with a strong foundation in **software development, data science, and artificial intelligence**. My expertise spans across **Python, Java, SQL, Web Technologies, and Machine Learning**, and I am passionate about leveraging technology to build scalable, efficient solutions.  
 
-## 🛠️ Skills & Tech Stack
+With experience in **full-stack development, machine learning models, and data analysis**, I thrive in problem-solving and optimizing system performance. I am eager to contribute to innovative projects and collaborate with forward-thinking teams.  
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Weka](https://img.shields.io/badge/-Weka-9C27B0?style=flat&logo=weka&logoColor=white)
+---
 
-## 📂 Projects
+## **🛠 Technical Skills**  
 
-🔹 **[Portfolio Website](https://niiiiiiikhil.github.io/portfolio/)** - My professional portfolio showcasing my work.  
-🔹 **Students Live Behavior Monitoring** - Used **YOLOv3** & **OpenCV** to track students' engagement in online classes.  
-🔹 **Handwritten Digit Recognition** - Implemented **Neural Networks** & **Logistic Regression** for handwritten digit classification.  
-🔹 **Inventory Management System** - (In Progress) A web app for university store inventory tracking.  
-🔹 **Blackjack Strategy Trainer** - (Upcoming) A web-based **Blackjack strategy training** tool using Flask & React.  
+### **Programming & Software Development**  
+- **Languages:** Python, Java, JavaScript, SQL  
+- **Frameworks & Libraries:** React, Flask, OpenCV, NumPy, Pandas  
+- **Version Control:** Git, GitHub  
 
-## 📊 GitHub Stats
+### **Data Science & Machine Learning**  
+- **Machine Learning:** Scikit-Learn, Weka, YOLOv3  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Databases:** MySQL, PostgreSQL  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niiiiiiikhil&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niiiiiiikhil&theme=tokyonight" width="49%" />
-</p>
+### **Web Development & Cloud Technologies**  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React  
+- **Backend:** Flask, REST APIs  
+- **Cloud & Deployment:** AWS (EC2, S3), Docker (Basics)  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niiiiiiikhil&layout=compact&theme=tokyonight" width="49%" />
-</p>
+---
 
-## 📫 Connect with Me
+## **📂 Featured Projects**  
 
-📧 Email: [chanumolunikhil@gmail.com](mailto:chanumolunikhil@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/niiiiiiikhil](https://www.linkedin.com/in/niiiiiiikhil/)  
-🐦 Twitter: [@niiiiiiikhil](https://twitter.com/niiiiiiikhil)  
-📸 Instagram: [@niiiiiiikhil](https://instagram.com/niiiiiiikhil)  
+### **[Portfolio Website](https://niiiiiiikhil.github.io/portfolio/)**  
+- Developed a personal portfolio using **HTML, CSS, JavaScript**, and hosted via **GitHub Pages**.  
+- Showcases projects, skills, and professional experience.  
 
-⚡ **Fun Fact**: I love **meditation, beatboxing, and photography** 📷🎤
+### **Students' Behavior Monitoring System**  
+- Implemented **YOLOv3 & OpenCV** to track student engagement during online classes.  
+- Developed a real-time monitoring system to analyze visual cues.  
+
+### **Handwritten Digit Recognition**  
+- Built a **Neural Network-based** classification model for digit recognition.  
+- Implemented **Logistic Regression** and **Deep Learning** for improved accuracy.  
+
+### **Inventory Management System** *(In Progress)*  
+- Designing a **Flask & React** web-based system for **inventory tracking** in a retail environment.  
+- Features real-time stock updates, reporting, and analytics.  
+
+---
+
+## **📞 Contact & Connect**  
+
+📧 **Email:** [chanumolunikhil@gmail.com](mailto:chanumolunikhil@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/niiiiiiikhil](https://www.linkedin.com/in/niiiiiiikhil/)  
+🐦 **Twitter:** [@niiiiiiikhil](https://twitter.com/niiiiiiikhil)  
+📸 **Instagram:** [@niiiiiiikhil](https://instagram.com/niiiiiiikhil)  
+
+---
