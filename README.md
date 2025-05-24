@@ -37,19 +37,14 @@ With experience in **full-stack development, machine learning models, and data a
 - Developed a personal portfolio using **HTML, CSS, JavaScript**, and hosted via **GitHub Pages**.  
 - Showcases projects, skills, and professional experience.  
 
-### **Students' Behavior Monitoring System**  
+### **Students' Behavior Monitoring System(Academic)**  
 - Implemented **YOLOv3 & OpenCV** to track student engagement during online classes.  
 - Developed a real-time monitoring system to analyze visual cues.  
 
-### **Handwritten Digit Recognition**  
+### **Handwritten Digit Recognition (Academic)**  
 - Built a **Neural Network-based** classification model for digit recognition.  
 - Implemented **Logistic Regression** and **Deep Learning** for improved accuracy.  
 
-### **Inventory Management System** *(In Progress)*  
-- Designing a **Flask & React** web-based system for **inventory tracking** in a retail environment.  
-- Features real-time stock updates, reporting, and analytics.  
-
----
 
 ## **📞 Contact & Connect**  
 
