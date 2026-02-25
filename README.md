@@ -29,23 +29,6 @@ With experience in **full-stack development, machine learning models, and data a
 - **Backend:** Flask, REST APIs  
 - **Cloud & Deployment:** AWS (EC2, S3), Docker (Basics)  
 
----
-
-## **📂 Featured Projects**  
-
-### **[Portfolio Website](https://niiiiiiikhil.github.io/portfolio/)**  
-- Developed a personal portfolio using **HTML, CSS, JavaScript**, and hosted via **GitHub Pages**.  
-- Showcases projects, skills, and professional experience.  
-
-### **Students' Behavior Monitoring System(Academic)**  
-- Implemented **YOLOv3 & OpenCV** to track student engagement during online classes.  
-- Developed a real-time monitoring system to analyze visual cues.  
-
-### **Handwritten Digit Recognition (Academic)**  
-- Built a **Neural Network-based** classification model for digit recognition.  
-- Implemented **Logistic Regression** and **Deep Learning** for improved accuracy.  
-
-
 ## **📞 Contact & Connect**  
 
 📧 **Email:** [chanumolunikhil@gmail.com](mailto:chanumolunikhil@gmail.com)  
